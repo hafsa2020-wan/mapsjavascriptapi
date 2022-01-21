@@ -1,4 +1,4 @@
-# Maps Javascript API
+# Maps Javascript API Project Demonstration
 
 This project is a basic demonstration of how Maps JavaScript API from GCP Marketplace can be incorporated into a website. 
 
