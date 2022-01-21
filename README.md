@@ -6,7 +6,7 @@ The website is for teaching and demonstration purposes. The HTML template (adapt
 
 The website shows an example of how Maps JavaScript API is used to point to different cities in Osun State, Nigeria including markers. 
 
-The HTML cities pages includes the full codes without the API Key. You will replace this section with your own API Key
+The HTML cities pages includes the full codes without the API Key. You will replace this section with your own API Key. The pointer images on the site are inactive and not linked to any page. This is to serve as a design layout idea for learners to remix the project.
 
 Pointer icon from Map by Anusha Narvekar from NounProject.com
 
