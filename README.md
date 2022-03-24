@@ -13,7 +13,7 @@ Get it from my repository and clone it to my terminal.
  I created the API key using the maps javascript API.  
 Used google maps to get GPS coordinates to find the cities I needed for my project.
  I used Visual Studio Code to  modify the existing code to run mine.
-Using google maps I was able to locate the latitude and longitude for the cities. 
+Using google maps I was able to locate the latitude and longitude for the cities.
 
 
 
@@ -37,12 +37,12 @@ Upload images
  Review my project documentation with my mentors 
 03/10/2022
 
-
-
-
 Push it to Github and 
 Deploy my project by
 03/20/2022
+
+
+https://heroic-bird-330304.ue.r.appspot.com/
 
 
 
